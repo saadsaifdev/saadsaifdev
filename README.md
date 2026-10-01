@@ -1,7 +1,9 @@
 <div align="center" width="50">
 
-<!-- الشعار المتحرك المطابق للصورة وبحجم أصغر وقريب من الصورة -->
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/saadsaifdev" alt="Hello Coders" width="45%"/> <br>
+<!-- الشعار المتحرك بنفس الخط (Orbitron) والحركة والشرطتين الأزرق واسمك Saad Saif -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=26&pause=1000&color=000000&background=FFFFFF&center=true&vCenter=true&width=480&height=80&lines=Hello+%3Ccoders%2F%3E;I%27m+Saad+Saif" href="https://github.com/saadsaifdev" alt="Saad Saif" width="60%"/> <br>
+
+<!-- صورة العمل قريبة وتحت الشعار مباشرة -->
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/saadsaifdev" alt="Workspace" width="40%"/><br> 
 
 <details>
