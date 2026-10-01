@@ -1,10 +1,10 @@
 <div align="center" width="50">
 
-<!-- الشعار المتحرك بنفس الخط (Orbitron) والحركة والشرطتين الأزرق واسمك Saad Saif -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=26&pause=1000&color=000000&background=FFFFFF&center=true&vCenter=true&width=480&height=80&lines=Hello+%3Ccoders%2F%3E;I%27m+Saad+Saif" href="https://github.com/saadsaifdev" alt="Saad Saif" width="60%"/> <br>
+<!-- الشعار المتحرك بالحجم الطبيعي والعريض مع خط Orbitron واسمك Saad Saif -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=28&pause=1000&color=000000&background=FFFFFF&center=true&vCenter=true&width=600&height=90&lines=Hello+%3Ccoders%2F%3E;I%27m+Saad+Saif" href="https://github.com/saadsaifdev" alt="Saad Saif" width="80%"/>
 
-<!-- صورة العمل قريبة وتحت الشعار مباشرة -->
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/saadsaifdev" alt="Workspace" width="40%"/><br> 
+<!-- صورة العمل قريبة وتحت الشعار مباشرة بدون مسافات -->
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/saadsaifdev" alt="Workspace" width="45%"/><br> 
 
 <details>
 <p><strong> <summary>   Busy coding & Vibing to :    </summary> </strong></p>
