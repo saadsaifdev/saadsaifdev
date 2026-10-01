@@ -44,13 +44,14 @@
 ![Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=flat&logo=Adobe%20Lightroom&logoColor=white)
 ![Gimp](https://img.shields.io/badge/gimp-5C5543?style=flat&logo=gimp&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white)
 ![Chakra-UI](https://img.shields.io/badge/Chakra--UI-319795?style=flat&logo=chakra-ui&logoColor=white)
 
 ```dart
 // tools_I_use organized
 
-class SaadSaif extends FlutterDeveloper { 
+class About extends Me { 
   const myTools = {  
     "ProgramingLanguages" : { "Dart", "Go", "Python", "Javascript", "Java", "c++" },
     "OtherLanguages" : { "HTML", "CSS", "Bash", "Json", "Markdown" },
@@ -60,3 +61,19 @@ class SaadSaif extends FlutterDeveloper {
     "OtherTools" : { "Git", "Figma", "Photoshop", "Gimp", "Lightroom" }
   };
 }
+I’m currently learning Frappe.
+
+
+I like exploring GNU/Linux.
+
+
+Ask me about Pc building, Movies, or anything.
+
+
+Find me on Telegram: 丂𝙋⚡乂𝘿
+
+
+Fun fact: Banging your head against a wall for one hour burns 150 calories.
+
+
+Code Cycle
