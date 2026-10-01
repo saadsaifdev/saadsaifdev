@@ -1,6 +1,6 @@
 <div align="center" width="50">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=Saad%20Saif%20<Flutter%20Dev/>&fontSize=35&fontColor=ffffff&animation=fadeIn" width="100%"/> <br>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=500&height=80&lines=I'm+Saad+Saif;Flutter+Developer;Welcome+to+my+Profile!" alt="Saad Saif" /> <br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/saadsaifdev" alt="Workspace" width="40%"/><br> 
 
 <details>
@@ -61,19 +61,3 @@ class About extends Me {
     "OtherTools" : { "Git", "Figma", "Photoshop", "Gimp", "Lightroom" }
   };
 }
-I’m currently learning Frappe.
-
-
-I like exploring GNU/Linux.
-
-
-Ask me about Pc building, Movies, or anything.
-
-
-Find me on Telegram: 丂𝙋⚡乂𝘿
-
-
-Fun fact: Banging your head against a wall for one hour burns 150 calories.
-
-
-Code Cycle
