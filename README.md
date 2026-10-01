@@ -1,7 +1,8 @@
 <div align="center" width="50">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="60%"/> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/><br> 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=Saad%20Saif%20<Flutter%20Dev/>&fontSize=30&fontColor=ffffff&animation=fadeIn" width="100%"/> <br>
+
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/saadsaifdev" alt="Workspace" width="40%"/><br> 
 
 <details>
 <p><strong> <summary>  Busy coding & Vibing to :   </summary> </strong></p>
@@ -35,19 +36,18 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 ```dart
-// tools_I_use organized
+// mobile_developer_profile.dart
 
-class About extends Me { 
-  const myTools = {  
-    "PrimaryLanguages" : { "Dart", "C++", "Javascript" },
-    "Frameworks" : { "Flutter", "Firebase" },
-    "Database" : { "Sqlite", "REST APIs" },
-    "Editors" : { "Vscode", "Cursor" },
-    "Platforms" : { "GNU/Linux", "Windows", "Android", "iOS" },
-    "OtherTools" : { "Git", "Figma", "Markdown" }
+class SaadSaif extends FlutterDeveloper { 
+  const MobileProfile = {  
+    "Specialization" : { "Cross-Platform Mobile Apps", "UI/UX Implementation" },
+    "PrimaryStack"   : { "Flutter", "Dart" },
+    "StateManagement": { "Provider", "BLoC (Exploring)" },
+    "Backend"        : { "Firebase", "REST APIs", "SQLite" },
+    "University"     : "Dijlah University (Computer Science)",
+    "Status"         : "Building real-world production-ready apps 📱"
   };
 }
-```
 
 -  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning **Frappe**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **GNU/Linux**. <br>
