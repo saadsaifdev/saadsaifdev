@@ -1,6 +1,6 @@
 <div align="center" width="50">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00B4D8&center=true&vCenter=true&width=500&height=50&lines=I'm+Saad+Saif" href="https://github.com/sp-xd" alt="Hello Coders" width="60%"/> <br>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=bold&size=32&pause=1000&color=FFFFFF&center=true&vCenter=true&width=450&height=70&lines=I'm+Saad+Saif" href="https://github.com/sp-xd" alt="Hello Coders" width="60%"/> <br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/><br> 
 
 <details>
