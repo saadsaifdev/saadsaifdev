@@ -1,15 +1,8 @@
-<div align="center">
+<div align="center" width="50">
 
-<!-- الترويحة المصممة بلغة HTML و CSS بنفس الستايل والأطر والخطوط المائلة -->
-<div style="background-color: #ffffff; padding: 20px 30px; border-radius: 8px; display: inline-block; position: relative; border: 1px solid #e1e4e8; box-shadow: 0 4px 6px rgba(0,0,0,0.05); margin-bottom: 20px;">
-  <span style="color: #0366d6; font-weight: bold; position: absolute; top: 8px; left: 10px; font-size: 20px;">╱</span>
-  <span style="font-family: monospace; font-size: 32px; font-weight: bold; color: #111111; letter-spacing: 1px;">
-    Hello <span style="color: #24292e;">&lt;Saad/&gt;</span>
-  </span>
-  <span style="color: #0366d6; font-weight: bold; position: absolute; bottom: 8px; right: 10px; font-size: 20px;">╱</span>
-</div>
+<!-- الشعار المتحرك بنفس الستايل تماماً وباسمك -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=26&pause=1000&color=000000&background=FFFFFF&center=true&vCenter=true&width=480&height=80&lines=Hello+Saad" href="https://github.com/saadsaifdev" alt="Hello Saad" width="60%"/> <br>
 
-<br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/saadsaifdev" alt="Workspace" width="40%"/><br> 
 
 <details>
