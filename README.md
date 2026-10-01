@@ -1,82 +1,52 @@
-<div align="center" width="50">
+<div align="center">
 
-<!-- الشعار المتحرك بالحجم المضغوط (طول أقل) مع خط Orbitron وجملتي Hello <coders/> و I'm Saad Saif -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=24&pause=1000&color=000000&background=FFFFFF&center=true&vCenter=true&width=480&height=60&lines=Hello+%3Ccoders%2F%3E;I%27m+Saad+Saif" href="https://github.com/saadsaifdev" alt="Saad Saif" width="60%"/>
+<!-- الشعار المتحرك مع جملة التعريف الخاصة بك -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=22&pause=1000&color=000000&background=FFFFFF&center=true&vCenter=true&width=520&height=60&lines=Hello+%3Ccoders%2F%3E;I%27m+Saad+Saif+%7C+Flutter+Developer" alt="Saad Saif" width="70%"/>
 
-<!-- صورة العمل قريبة وتحت الشعار مباشرة وبحجم متناسق -->
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/saadsaifdev" alt="Workspace" width="40%"/><br> 
+<p><em>Flutter Developer | Dart | Building Cross-Platform Mobile Solutions</em></p>
+
+<!-- صورة العمل -->
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="35%"/><br>
 
 <details>
-<p><strong> <summary>   Busy coding & Vibing to :    </summary> </strong></p>
-
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul) <be>
-
+<summary><b>🎵 Busy coding & Vibing to...</b></summary>
+<br>
+[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul)
 </details>
 
-![Totals Hits](https://komarev.com/ghpvc/?username=saadsaifdev&style=flat&color=orange&label=PROFILE+VIEWS)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsaadsaifdev&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
-[![telegram badge](https://img.shields.io/badge/SP-XD-grey?style=flat&logo=telegram)](https://t.me/spxd007) <br>
+<br>
+
+[![Telegram Badge](https://img.shields.io/badge/Telegram-SP--XD-blue?style=flat&logo=telegram)](https://t.me/spxd007)
+![Profile Views](https://komarev.com/ghpvc/?username=saadsaifdev&style=flat&color=orange&label=PROFILE+VIEWS)
+
 </div>
 
-<hr></hr>
+<hr>
 
-![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
-![semicolon](https://img.shields.io/badge/-%3A-orange)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
-![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
-![Json](https://img.shields.io/badge/json-5E5C5C?style=flat&logo=json&logoColor=white)
-![Html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![Css](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=flat&logo=GNU%20Bash&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
-![GNU/Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
-![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=flat&logo=sublime-text&logoColor=important)
-![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=flat&logo=neovim&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-ffca28?style=flat&logo=firebase&logoColor=black)
-![Sqlite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=black)
-![Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=flat&logo=Adobe%20Lightroom&logoColor=white)
-![Gimp](https://img.shields.io/badge/gimp-5C5543?style=flat&logo=gimp&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white)
-![Chakra-UI](https://img.shields.io/badge/Chakra--UI-319795?style=flat&logo=chakra-ui&logoColor=white)
+### 🚀 Tech Toolbox
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
 
 ```dart
-// tools_I_use organized
+// Saad Saif's Tech Stack & Environment
 
-class About extends Me { 
-  const myTools = {  
-    "ProgramingLanguages" : { "Dart", "Go", "Python", "Javascript", "Java", "c++" },
-    "OtherLanguages" : { "HTML", "CSS", "Bash", "Json", "Markdown" },
-    "Database" : { "Firebase", "Sqlite", "PostgreSql" },
-    "Editors" : { "Vscode", "Xcode", "Sublime", "Neovim" },
-    "Platforms" : { "Mac", "GNU/Linux", "Windows" },
-    "OtherTools" : { "Git", "Figma", "Photoshop", "Gimp", "Lightroom" }
+class FlutterDeveloper extends Me {
+  final String title = "Flutter Developer & Cross-Platform Enthusiast";
+  
+  static const Map<String, List<String>> myTools = {
+    "Mobile & Core": ["Flutter", "Dart", "Provider / BLoC"],
+    "Backend & Database": ["Firebase", "SQLite", "REST APIs"],
+    "Languages": ["Dart", "Python", "JavaScript", "C++", "HTML/CSS"],
+    "Tools & Editors": ["Git", "VS Code", "Neovim", "Figma"],
+    "Platforms": ["GNU/Linux", "macOS", "Windows"]
   };
 }
-I’m currently learning Frappe.
-
-
-I like exploring GNU/Linux.
-
-
-Ask me about Pc building, Movies, or anything.
-
-
-Find me on Telegram: 丂𝙋⚡乂𝘿
-
-
-Fun fact: Banging your head against a wall for one hour burns 150 calories.
-
-
-Code Cycle
