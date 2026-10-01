@@ -1,11 +1,9 @@
 <div align="center">
 
-<!-- الشعار المتحرك مع جملة التعريف الخاصة بك -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=22&pause=1000&color=000000&background=FFFFFF&center=true&vCenter=true&width=520&height=60&lines=Hello+%3Ccoders%2F%3E;I%27m+Saad+Saif+%7C+Flutter+Developer" alt="Saad Saif" width="70%"/>
+<!-- الشعار المتحرك المدمج -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=22&pause=1000&color=000000&background=FFFFFF&center=true&vCenter=true&width=520&height=60&lines=Hello+%3Ccoders%2F%3E;I%27m+Saad+Saif" alt="Saad Saif" width="70%"/>
 
-<p><em>Flutter Developer | Dart | Building Cross-Platform Mobile Solutions</em></p>
-
-<!-- صورة العمل -->
+<!-- صورة العمل قريبة وتحت الشعار مباشرة -->
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="35%"/><br>
 
 <details>
@@ -23,7 +21,7 @@
 
 <hr>
 
-### 🚀 Tech Toolbox
+### 🚀 Tech Toolbox & Skills
 
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
@@ -37,16 +35,39 @@
 </p>
 
 ```dart
-// Saad Saif's Tech Stack & Environment
+// Saad Saif's LinkedIn Skills & Core Competencies
 
-class FlutterDeveloper extends Me {
-  final String title = "Flutter Developer & Cross-Platform Enthusiast";
-  
-  static const Map<String, List<String>> myTools = {
-    "Mobile & Core": ["Flutter", "Dart", "Provider / BLoC"],
-    "Backend & Database": ["Firebase", "SQLite", "REST APIs"],
-    "Languages": ["Dart", "Python", "JavaScript", "C++", "HTML/CSS"],
-    "Tools & Editors": ["Git", "VS Code", "Neovim", "Figma"],
-    "Platforms": ["GNU/Linux", "macOS", "Windows"]
+class Skills extends Me {
+  static const Map<String, List<String>> verifiedSkills = {
+    "Mobile & Core Development": [
+      "Flutter – Intermediate",
+      "Dart – Intermediate",
+      "State Management (Provider/BLoC) – Basic"
+    ],
+    "Backend, Data & APIs": [
+      "REST APIs – Basic",
+      "Firebase – Learning",
+      "SQLite",
+      "SQL",
+      "Data Structures",
+      "Algorithms"
+    ],
+    "Languages & Web": [
+      "Python",
+      "Web Development (HTML, CSS, JavaScript)"
+    ],
+    "Design & Version Control": [
+      "UI/UX Design – Good",
+      "Git – Good"
+    ],
+    "Soft Skills & Professional": [
+      "Object-Oriented Programming",
+      "Problem-Solving",
+      "Business English",
+      "Critical thinking",
+      "Communication",
+      "Teamwork",
+      "Microsoft Office"
+    ]
   };
 }
