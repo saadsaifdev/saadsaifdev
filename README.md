@@ -1,7 +1,7 @@
 <div align="center" width="50">
 
-<!-- الشعار المتحرك بنفس الستايل تماماً وباسمك -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=26&pause=1000&color=000000&background=FFFFFF&center=true&vCenter=true&width=480&height=80&lines=Hello+Saad" href="https://github.com/saadsaifdev" alt="Hello Saad" width="60%"/> <br>
+<!-- الشعار المتحرك: يبدأ بـ Hello <coders/> ثم ينتقل إلى اسمك Saad Saif -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=26&pause=1000&color=000000&background=FFFFFF&center=true&vCenter=true&width=480&height=80&lines=Hello+%3Ccoders%2F%3E;I%27m+Saad+Saif" href="https://github.com/saadsaifdev" alt="Saad Saif" width="60%"/> <br>
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/saadsaifdev" alt="Workspace" width="40%"/><br> 
 
