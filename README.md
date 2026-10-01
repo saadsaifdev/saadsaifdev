@@ -1,10 +1,7 @@
 <div align="center">
 
-<!-- الشعار المتحرك مع اسمك -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=22&pause=1000&color=000000&background=FFFFFF&center=true&vCenter=true&width=520&height=60&lines=Hello+%3Ccoders%2F%3E;I%27m+Saad+Saif" alt="Saad Saif" width="70%"/>
-
-<!-- جملة مبرمج فلاتر -->
-<p><b>Flutter Developer | Cross-Platform Mobile Solutions</b></p>
+<!-- الشعار المتحرك المحدث ليضم اسمك وجمملة Flutter Developer -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=20&pause=1000&color=000000&background=FFFFFF&center=true&vCenter=true&width=550&height=60&lines=Hello+%3Ccoders%2F%3E;I%27m+Saad+Saif;Flutter+Developer" alt="Saad Saif" width="70%"/>
 
 <!-- صورة العمل قريبة وتحت الشعار مباشرة -->
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="35%"/><br>
