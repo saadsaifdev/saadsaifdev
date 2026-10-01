@@ -1,7 +1,6 @@
 <div align="center" width="50">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/saadsaifdev" alt="Hello Coders" width="60%"/> <br>
-<h2>Hi there, I'm <span style="color: #00B4D8;">Saad Saif</span> 👋</h2>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=I'm%20Saad%20Saif&fontSize=35&fontColor=ffffff&animation=fadeIn" width="100%"/> <br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/saadsaifdev" alt="Workspace" width="40%"/><br> 
 
 <details>
