@@ -1,10 +1,7 @@
 <div align="center" width="50">
 
-<!-- الشعار الأول: Hello <coders/> -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=24&pause=1000&color=000000&background=FFFFFF&center=true&vCenter=true&width=360&height=50&lines=Hello+%3Ccoders%2F%3E" alt="Hello Coders" width="50%"/>
-
-<!-- الشعار الثاني: اسمك Saad Saif بنفس الستايل والشرطتين الأزرق -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=24&pause=1000&color=000000&background=FFFFFF&center=true&vCenter=true&width=360&height=50&lines=Saad+Saif" alt="Saad Saif" width="50%"/>
+<!-- الشعار المتحرك بالحجم المضغوط (طول أقل) مع خط Orbitron وجملتي Hello <coders/> و I'm Saad Saif -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=24&pause=1000&color=000000&background=FFFFFF&center=true&vCenter=true&width=480&height=60&lines=Hello+%3Ccoders%2F%3E;I%27m+Saad+Saif" href="https://github.com/saadsaifdev" alt="Saad Saif" width="60%"/>
 
 <!-- صورة العمل قريبة وتحت الشعار مباشرة وبحجم متناسق -->
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/saadsaifdev" alt="Workspace" width="40%"/><br> 
@@ -67,3 +64,19 @@ class About extends Me {
     "OtherTools" : { "Git", "Figma", "Photoshop", "Gimp", "Lightroom" }
   };
 }
+I’m currently learning Frappe.
+
+
+I like exploring GNU/Linux.
+
+
+Ask me about Pc building, Movies, or anything.
+
+
+Find me on Telegram: 丂𝙋⚡乂𝘿
+
+
+Fun fact: Banging your head against a wall for one hour burns 150 calories.
+
+
+Code Cycle
