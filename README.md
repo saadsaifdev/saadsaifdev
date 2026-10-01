@@ -1,9 +1,11 @@
 <div align="center">
 
-<!-- الشعار المتحرك المدمج -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=22&pause=1000&color=000000&background=FFFFFF&center=true&vCenter=true&width=520&height=60&lines=Hello+%3Ccoders%2F%3E;I%27m+Saad+Saif" alt="Saad Saif" width="70%"/>
+<!-- الشعار المتحرك مع جملة التعريف الخاصة بك -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=22&pause=1000&color=000000&background=FFFFFF&center=true&vCenter=true&width=520&height=60&lines=Hello+%3Ccoders%2F%3E;I%27m+Saad+Saif+%7C+Flutter+Developer" alt="Saad Saif" width="70%"/>
 
-<!-- صورة العمل قريبة وتحت الشعار مباشرة -->
+<p><em>Flutter Developer | Dart | Building Cross-Platform Mobile Solutions</em></p>
+
+<!-- صورة العمل -->
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="35%"/><br>
 
 <details>
