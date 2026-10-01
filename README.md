@@ -43,3 +43,12 @@ class SaadSaif extends FlutterDeveloper {
     "Status"         : "Building real-world production-ready apps 📱"
   };
 }
+📱   I’m currently focused on building high-performance mobile applications using Flutter & Dart.
+
+🏛️   Exploring clean architecture principles and state management patterns.
+
+💬   Ask me about Flutter UI, State Management, or C++ problem solving.
+
+🔗   Let's connect professionally on LinkedIn.
+
+⚡   Fun fact: Clean code saves hours of debugging!
