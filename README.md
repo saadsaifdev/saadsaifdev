@@ -3,7 +3,7 @@
 <!-- الشعار المتحرك مع اسمك وجملة Flutter Developer -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=20&pause=1000&color=000000&background=FFFFFF&center=true&vCenter=true&width=420&height=60&lines=Hello+%3Ccoders%2F%3E;I%27m+Saad+Saif;Flutter+Developer" alt="Saad Saif" width="60%"/>
 
-<!-- صورة العمل قريبة وتحت الشعار مباشرة -->
+<!-- صورة العمل تحت الشعار مباشرة -->
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="35%"/>
 
 </div>
