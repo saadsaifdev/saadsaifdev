@@ -1,18 +1,15 @@
 <div align="center">
 
-<!-- الشعار المتحرك (متروّب بالترتيب: Hello <coders/> -> I'm Saad Saif -> Flutter Developer) -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=20&pause=1000&color=000000&background=FFFFFF&center=true&vCenter=true&width=420&height=60&lines=Hello+%3Ccoders%2F%3E;I%27m+Saad+Saif;Flutter+Developer" alt="Saad Saif" width="60%"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=20&pause=1000&color=000000&background=FFFFFF&center=true&vCenter=true&width=450&height=60&lines=Hello+%3Ccoders%2F%3E;I%27m+Saad+Saif+%7C+Flutter+Developer" alt="Saad Saif" width="60%"/>
 
 <br>
 
-<!-- صورة العمل قريبة جداً ومرتبة تحت الشعار -->
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="35%"/>
 
 </div>
 
 <hr>
 
-<!-- شريط الأدوات المخصص لـ Flutter فقط -->
 <p align="left">
   <img src="https://img.shields.io/badge/🚀_Flutter_Stack-:%20-blue?style=flat&color=333" />
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white" />
