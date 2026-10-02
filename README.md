@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- الشعار المتحرك مع اسمك وجملة Flutter Developer -->
+<!-- الشعار المتحرك في الأعلى -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=20&pause=1000&color=000000&background=FFFFFF&center=true&vCenter=true&width=420&height=60&lines=Hello+%3Ccoders%2F%3E;I%27m+Saad+Saif;Flutter+Developer" alt="Saad Saif" width="60%"/>
 
 <!-- صورة العمل تحت الشعار مباشرة -->
