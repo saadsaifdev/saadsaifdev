@@ -21,18 +21,23 @@
 
 ```dart
 class SaadSaif {
-  static final me = SaadSaif();
+  static final SaadSaif me = SaadSaif._internal();
+  SaadSaif._internal();
 
-  String name       = "Saad Saif";
-  String title      = "Flutter Developer";
-  String university = "Dijlah University";
-  String status     = "Final-Year Computer Science Student";
+  final String name = "Saad Saif";
+  final String title = "Flutter Developer";
+  final String university = "Dijlah University";
+  final String status = "Final-Year Computer Science Student";
   
-  List<String> core         = ["Flutter", "Dart"];
-  List<String> architecture = ["OOP", "SOLID Principles"];
-  List<String> stateMgmt    = ["Cubit", "BLoC"];
-  List<String> backendTools = ["Firebase"];
-  List<String> devTools     = ["Git", "GitHub", "VS Code", "Postman"];
+  final List<String> core = const ["Flutter", "Dart"];
+  final List<String> architecture = const ["OOP", "SOLID Principles"];
+  final List<String> stateMgmt = const ["Cubit", "BLoC"];
+  final List<String> backendTools = const ["Firebase"];
+  final List<String> devTools = const ["Git", "GitHub", "VS Code", "Postman"];
+
+  void printBio() {
+    print("Developer: $name | $title at Dijlah University");
+  }
 }
 ```
 
